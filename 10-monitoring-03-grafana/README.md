@@ -54,7 +54,7 @@
 
 **Решение**
 
-- *утилизация CPU для nodeexporter (в процентах, 100-idle)*</br>
+- *утилизация CPU для nodeexporter *</br>
 
 ![](./1/cpu.jpg)
 
